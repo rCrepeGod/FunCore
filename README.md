@@ -1,5 +1,5 @@
 # FunCore
-
+https://drive.google.com/drive/folders/1GNZfblIP_X6-KAYCbZUhQqsym2Sq6Ro8?usp=sharing
 FunCore is a powerful all-in-one Minecraft server core plugin that combines essential moderation tools with fun features for players. Designed for modern servers running **Paper** on Minecraft **1.21+**, FunCore provides server owners with a flexible system for managing staff, players, ranks, and chat — all in one plugin.
 
 ## Key Features
