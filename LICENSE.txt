@@ -1,0 +1,61 @@
+FunCore Custom License
+Copyright (c) 2026 CrepeGod_
+
+Permission is hereby granted to any person obtaining a copy of this software ("FunCore") to use, modify, and distribute it under the following conditions:
+
+---
+
+1. Modification Requirement
+   You are allowed to modify this software for personal or public use.
+
+---
+
+2. Redistribution Rules
+   You may ONLY redistribute this software if you have made meaningful modifications to it.
+   Redistributing the original, unchanged version of FunCore is strictly prohibited.
+
+   Changing configuration files (config.yml or similar) does NOT count as modifying the software, unless the configuration is altered in a way that changes the intended functionality or purpose of the plugin.
+
+---
+
+3. No Selling
+   You are NOT allowed to sell, sublicense, or commercially distribute this software or any modified versions of it.
+
+---
+
+4. Same License Requirement
+   Any redistributed version (modified or not) MUST include this exact license and remain under the same terms.
+
+---
+
+5. Attribution
+   Credit to the original author (CrepeGod_) must be clearly visible in:
+
+* Source code
+* Plugin description or documentation
+
+---
+
+6. Contributions (Pull Requests)
+   By submitting any contribution, including but not limited to pull requests, code, suggestions, or improvements to this project, you grant the original author (CrepeGod_) the right to use, modify, distribute, and include your contribution in future versions of FunCore, including releases published on platforms such as Modrinth.
+
+   You also agree that your contribution will be licensed under this same FunCore Custom License and that you do not retain exclusive ownership over the submitted code.
+
+---
+
+7. Modified Versions Support Disclaimer
+   If you are using a modified version of FunCore, you must NOT contact the original author (CrepeGod_) for support, bug fixes, or issues related to that version.
+
+   You must instead contact the person or team responsible for the modified version.
+
+---
+
+8. No Warranty
+   This software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
+
+   The author is not responsible for any damage, data loss, or issues caused by this software.
+
+---
+
+9. Acceptance
+   By using, modifying, or distributing this software, you agree to all terms of this license.
